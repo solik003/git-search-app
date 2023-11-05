@@ -1,0 +1,88 @@
+.navbar {
+    background-color: #c095e9; 
+    color: #fff; 
+    padding: 10px;
+  }
+  
+  
+  .search.card {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  input.searchUser {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  
+  .profile {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  
+  .profile h2 {
+    font-size: 24px;
+  }
+  
+  
+  .profile p {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  .card-header {
+    background: linear-gradient(135deg, #502570, #9141ce);
+    color: white;
+    text-align: center;
+    width: 100%;
+  }
+  
+  
+  .card-header h4 {
+    margin: 10px 20px 10px 20px;
+    padding: 10px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  .card-body{
+    margin-bottom: 70px;
+
+  }
+  .form-group {
+    margin-bottom: 10px; 
+    margin-left: 20px;
+    width: 100%;
+  }
+  .btn-secondary {
+    background-color: #9141ce; 
+    color: #fff; 
+    border-color: #6c757d; 
+    margin-left: 20px;
+}
+
+.btn-secondary:hover {
+    color: #fff; 
+    border-color: #5a6268; 
+}
+
+.card {
+  border: 1px solid black;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.row{
+  border-radius: 8px;
+  border: black;
+}
+
+
+  
